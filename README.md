@@ -14,4 +14,19 @@ This dataset consists of 4586 images belonging to two classes:
 
 This system can be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Covid-19. This project can be integrated with embedded system for application in airports, railway stations, offices, schools, and public places to ensure that public safety guidelines are followed.
 
+# technologies used
+
+1) Python
+2) Tensorflow
+3) OpenCv
+4) Image Data Generator
+5) Convolutional Neural Network
+
+# Samples
+
+
+
+
+
+https://user-images.githubusercontent.com/95767799/149589351-6e97df9a-0642-4af2-b627-91077d17c745.mp4
 
